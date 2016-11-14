@@ -25,7 +25,7 @@ SECRET_KEY = '@8ofx3dgaai8wj*j4ybl2&v(=n+-avby8q!zukdsw3!9j@xhx7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jellybeanjohnny.pythonanywhere.com']
 
 
 # Application definition
